@@ -1,12 +1,12 @@
-### Hi there , I'm Bhuwanesh Nainwal👋
+### Hi there , I'm Naveen Aggarwal👋
 
-##### I am Competitive Programmer , Android Developer and Python Developer. Currently working on improving my skills.
+##### I am Competitive Programmer . Currently working on improving my skills.
 
 
 #### About me:
 - 🔭 I’m currently working on [Jeevan](https://github.com/WhitePegasis/Jeevan01) Android App.
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me: harshitnainwal38@gmail.com
+- 📫 How to reach me: bang.naveen09@gmail.com
 - ⚡ Fun fact: Code for fun
 
 <!---
