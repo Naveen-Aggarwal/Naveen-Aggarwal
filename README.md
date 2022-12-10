@@ -4,8 +4,8 @@
 
 
 #### About me:
-- 🔭 I’m currently working on [Jeevan](https://github.com/WhitePegasis/Jeevan01) Android App.
-- 🌱 I’m currently learning Java.
+<!---  - 🔭 I’m currently working on [Jeevan](https://github.com/WhitePegasis/Jeevan01) Android App.
+- 🌱 I’m currently learning Java. -->
 - 📫 How to reach me: bang.naveen09@gmail.com
 - ⚡ Fun fact: Code for fun
 
