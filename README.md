@@ -1,6 +1,6 @@
 ### Hi there , I'm Naveen Aggarwal👋
 
-##### I am Competitive Programmer . Currently working on improving my skills.
+##### I am Competitive Programmer . Currently working as Software Engineer at ADL developing Adani one Application.
 
 
 #### About me:
